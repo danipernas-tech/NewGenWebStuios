@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/danipernas-tech/NewGenWebStuios#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "eslint": "^10.0.2",
+    "express": "^5.2.1",
+    "prettier": "^3.8.1"
   }
 }
